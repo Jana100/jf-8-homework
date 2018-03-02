@@ -6,6 +6,12 @@ public class Main {
         Employee employee1 = new Employee();
         Employee employee2 = new Employee();
 
+        System.out.print("Enter employee1 first name:\"Bill\" ");
+        System.out.print("Enter employee1 last name: \"Gates\"");
+        System.out.print("Enter employee2 first name:\"Steve\" ");
+        System.out.print("Enter employee2 last name:\"Jobs\" ");
+
+
         // TASK 1: Implement necessary methods
         // employee1.setFirstName("Bill");
         // employee1.setLastName("Gates");
